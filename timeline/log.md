@@ -1,6 +1,17 @@
 # Log
 
 
+## July 27, 2017
+
+Day 8 - Learned how to use the **testing** package in Go to unit test. Also practiced with **ginkgo** and **gomega**. Received some guidance on idiomatic testing on Gophers golang-newbies slack channel.
+
+### Reviewed:
+
+* Testing package
+* Ginkgo and gomega
+* Codewars Challenge: [Two Oldest Ages](../practice/codewars/kyu-7-two-oldest-ages.go)
+
+
 ## July 26, 2017
 
 Day 7 - Wow! Big day! Learned interfaces, concurrency, and parallelism as well as did a couple of programming challenges.
