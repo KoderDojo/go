@@ -8,7 +8,7 @@ I found a nice article by Dave Cheney that discusses [Writing table driven tests
 
 Let's say I have a type `Square` and I want to verify it is calculating the correct area.
 
-```
+```go
 package practice
 
 type Square struct {
@@ -24,7 +24,7 @@ Here is an example of writing a table-driven test. Notice the use of an anonymou
 
 I loop through the various tests one at a time, comparing the expected results with the actual results.
 
-```
+```go
 package practice_test
 
 import (
