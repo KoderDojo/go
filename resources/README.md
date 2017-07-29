@@ -2,7 +2,7 @@
 
 ## Websites
 
-* [Dave Chaney](https://dave.cheney.net)
+* [Dave Cheney](https://dave.cheney.net)
 
 ## Other Lists
 
