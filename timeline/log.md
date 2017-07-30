@@ -1,6 +1,21 @@
 # Log
 
 
+## July 30, 2017
+
+Day 11 - Focused on writing code and tests.
+
+### Code Written with Tests:
+
+* [Reverse a String](../practice/firecodeio/reverse-a-string.go)
+* [Even or Odd (linked list)](../practice/firecodeio/even-or-odd.go)
+* [Selection Sort](../algorithms/sort/selection-sort.go)
+
+I also wrote a **benchmark** for the Selection Sort, but I have all kinds of questions and research I need to do about how to benchmark an *in-place* sorting algorithm that also requires some initial set-up.
+
+Firecode.io doesn't support Go, but I took the C challenges I did today in Firecode and solved a couple in Go, too.
+
+
 ## July 29, 2017
 
 Day 10 - Switched gears and started looking at the "text/template" package in Go, which is super cool!
