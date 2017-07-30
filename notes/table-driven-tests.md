@@ -49,3 +49,5 @@ func TestSquare(t *testing.T) {
 	}
 }
 ```
+
+You can find another example of using a table-driven test in a programming challenge: [Reverse a String](../practice/firecodeio/reverse-a-string.go).
