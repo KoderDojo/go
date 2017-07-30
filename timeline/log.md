@@ -1,6 +1,33 @@
 # Log
 
 
+## July 29, 2017
+
+Day 10 - Switched gears and started looking at the "text/template" package in Go, which is super cool!
+
+## Reviewed:
+
+* Parsing and executing templates
+* Passing data to templates
+* Adding variables in templates
+* Adding functions in templates
+* Nesting templates
+
+
+## July 28, 2017
+
+Day 9 - Continued looking at concurrency and testing, and peeked at error handling.
+
+### Reviewed:
+
+* Mutex
+* Atomicity
+* Pipline pattern with Channels
+* Handling errors and logging to file.
+* [Table-Driven Tests](../notes/table-driven-tests.md).
+* Benchmarking Code.
+
+
 ## July 27, 2017
 
 Day 8 - Learned how to use the **testing** package in Go to unit test. Also practiced with **ginkgo** and **gomega**. Received some guidance on idiomatic testing on Gophers golang-newbies slack channel.
