@@ -5,7 +5,7 @@
 
 Day 10 - Switched gears and started looking at the "text/template" package in Go, which is super cool!
 
-## Reviewed:
+### Reviewed:
 
 * Parsing and executing templates
 * Passing data to templates
