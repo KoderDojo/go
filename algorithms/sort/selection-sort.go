@@ -52,3 +52,30 @@ func TestSelectionSort(t *testing.T) {
 		}
 	}
 }
+
+func BenchmarkSelectionSort(b *testing.B) {
+	var tests [][]int
+	var values []int
+
+	// Seed pseudo random generator
+	rand.Seed(99)
+
+	// Generate 100 random integers
+	for i := 0; i < 100; i++ {
+		values = append(values, rand.Int())
+	}
+
+	// Create N slices of same 100 values
+	for i := 0; i < b.N; i++ {
+		newSlice := append([]int(nil), values...)
+		tests = append(tests, newSlice)
+	}
+
+	// Ignore all the time spent above
+	b.ResetTimer()
+
+	// Go!
+	for n := 0; n < b.N; n++ {
+		practice.SelectionSort(tests[n])
+	}
+}
