@@ -1,6 +1,19 @@
 # Log
 
 
+## July 31, 2017
+
+Day 12 - I solved 2 more programming challenges on Firecode.io that I had done in C as well, and I learned more about **benchmarking Go code** as well as using the *text/templating* package.
+
+### Code Written with Tests:
+
+* [No Twins Allowed](../practice/firecodeio/no-twins-allowed.go)
+* [Is it a Palindrome](../practice/firecodeio/palindrome-tester.go)
+* [Benchmarking Selection Sort](../algorithms/sort/selection-sort.go)
+
+Really enjoying the **golang-newbies** slack channel.
+
+
 ## July 30, 2017
 
 Day 11 - Focused on writing code and tests.
