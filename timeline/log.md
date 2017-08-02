@@ -1,9 +1,22 @@
 # Log
 
 
+## August 1, 2017
+
+Day 13 - Reviewed *text/template* and *html/template* packages a well as created a **TCP Server** and started using the *net/http* package. Also attended the monthly Go Meetup in Lehi, Utah.
+
+* [Attended Utah Go User Group](https://www.meetup.com/utahgophers)
+* Reviewed *text/template* package
+* Reviewed *html/template* pacakge
+* Created TCP Server and Client
+* Used: **Dial**, **Listen**, **Accept**, **Close** as well as *bufio* package
+
+Learned about creating DSL's at the Utah Go User Group.
+
+
 ## July 31, 2017
 
-Day 12 - I solved 2 more programming challenges on Firecode.io that I had done in C as well, and I learned more about **benchmarking Go code** as well as using the *text/templating* package.
+Day 12 - I solved 2 more programming challenges on Firecode.io that I had done in C as well, and I learned more about **benchmarking Go code** as well as using the *text/template* package.
 
 ### Code Written with Tests:
 
