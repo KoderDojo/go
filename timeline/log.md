@@ -7,8 +7,8 @@ Day 14 - Coded a number of goroutines for practice. Used WaitGroup and Channels.
 
 ### Code
 
-* [HelloWorld](../language/goroutines/01-Hello-World/main.go)
-* [HelloWorld with Sleep](../language/goroutines/02-Hello-World-Sleep/main.go)
+* [Hello World](../language/goroutines/01-Hello-World/main.go)
+* [Hello World with Sleep](../language/goroutines/02-Hello-World-Sleep/main.go)
 * [Run Concurrently](../language/goroutines/03-Run-Concurrently/main.go)
 * [WaitGroup](../language/goroutines/04-WaitGroup/main.go)
 * [Channels](../language/goroutines/05-Channels/main.go)
