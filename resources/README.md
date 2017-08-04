@@ -1,8 +1,19 @@
 # Go Resources
 
+## Books
+
+* [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
+
 ## Online Resources
 
+* [Effective Go](https://golang.org/doc/effective_go.html)
 * [Go by Example](https://gobyexample.com)
+* [GOLANGBOT.COM](https://golangbot.com)
+
+## Presentations
+
+* [Go Concurrency Patterns (Google I/O 2012)](https://youtu.be/f6kdp27TYZs) - [source code](https://github.com/adityamenon/Google-IO_2012_Go-Concurrency-Patterns)
+* [Google I/O 2013 - Advanced Go Concurrency Patterns](https://youtu.be/QDDwwePbDtw)
 
 ## Websites
 
