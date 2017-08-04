@@ -1,6 +1,11 @@
 # Log
 
 
+## August 3, 2017
+
+Day 15 - Reviewed Channels and common patterns. Watched a bit more of the Udemy Go Course as well as read a few articles. No code today.
+
+
 ## August 2, 2017
 
 Day 14 - Coded a number of goroutines for practice. Used WaitGroup and Channels.
