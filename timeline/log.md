@@ -1,6 +1,26 @@
 # Log
 
 
+## August 5, 2017
+
+Day 17 - Watched my Udemy Web Development Course and coded in JetBrains Gogland.
+
+### Reviewed:
+
+* *net/http* package
+* Handler Interface - ServeHTTP(w ResponseWriter, r *Request)
+* http.ListenAndServe
+* *text/template* package
+* Request Structure Fields
+
+Wrote a lot of practice code, but pushed none of it to GitHub. I'll be better about that in the future so I can get a better feel for what I am doing each day.
+
+
+## August 4, 2017
+
+Day 16 - Watched several presentations on YouTube about common concurrency patterns and advanced concurrency patterns. Added several resources.
+
+
 ## August 3, 2017
 
 Day 15 - Reviewed Channels and common patterns. Watched a bit more of the Udemy Go Course as well as read a few articles. No code today.
