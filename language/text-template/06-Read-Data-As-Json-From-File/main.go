@@ -14,7 +14,7 @@ func main() {
 		Hobbies []string `json:"hobbies"`
 	}
 
-	dataFile, err := os.Open("data2.json")
+	dataFile, err := os.Open("data.json")
 	if err != nil {
 		log.Fatal(err)
 	}
