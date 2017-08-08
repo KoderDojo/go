@@ -1,6 +1,20 @@
 # Log
 
 
+## August 6, 2017
+
+Day 18 - Started building a static website generator. Wrote numerous examples of using the [text/template](../language/text-template) package in Go.
+
+### Code Examples
+
+* [Basic](../language/text-template/01-Basic)
+* [Struct](../language/text-template/02-Struct)
+* [Map with Struct](../language/text-template/03-Map-With-Struct)
+* [Slice Using Range](../language/text-template/04-Slice-Using-Range)
+* [Read and Write Files](../language/text-template/05-Read-Write-Files)
+* [Read Data as JSON from File](../language/text-template/06-Read-Data-As-Json-From-File)
+
+
 ## August 5, 2017
 
 Day 17 - Watched my Udemy Web Development Course and coded in JetBrains Gogland.
