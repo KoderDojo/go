@@ -1,6 +1,18 @@
 # Log
 
 
+## August 8, 2017
+
+Dat 20 - Reviewed JSON.
+
+### Code Examples:
+
+* [Encode](../language/encoding-json/Encode/main.go)
+* [Decode](../language/encoding-json/Decode/main.go)
+* [Marshal](../language/encoding-json/Marshal/main.go)
+* [Unmarshal](../language/encoding-json/Unmarshal/main.go)
+
+
 ## August 7, 2017
 
 Day 19 - Reviewed the net/http package in the Udemy Go Web Development Course. No coding. I just enjoyed re-watching the videos.
