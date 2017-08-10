@@ -1,6 +1,21 @@
 # Log
 
 
+## August 9, 2017
+
+Day 21 - Re-reviewed the *net/http* package, but this time writing a bunch of code for practice. I will officially write the code tomorrow and push it to GitHub. Wish I had my whiteboard. Didn't bring it on the road to Utah. Not very portable anyway :)
+
+### Re-Reviewed:
+
+* *net/http* package
+* ListenAndServe
+* Handler Type
+* HandleFunc
+* HandlerFunc
+* ServeMux
+* DefaultServeMux
+
+
 ## August 8, 2017
 
 Dat 20 - Reviewed JSON.
