@@ -1,6 +1,21 @@
 # Log
 
 
+## August 7, 2017
+
+Day 19 - Reviewed the net/http package in the Udemy Go Web Development Course. No coding. I just enjoyed re-watching the videos.
+
+### Reviewed:
+
+* *net/http* package
+* ListenAndServe
+* Handler Type
+* HandleFunc
+* HandlerFunc
+* ServeMux
+* DefaultServeMux
+
+
 ## August 6, 2017
 
 Day 18 - Started building a static website generator. Wrote numerous examples of using the [text/template](../language/text-template) package in Go.
