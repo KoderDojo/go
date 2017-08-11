@@ -3,6 +3,7 @@
 ## Books
 
 * [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
+* [Building Microservices with Go](https://www.packtpub.com/application-development/building-microservices-go) - Currently reading.
 
 ## Online Resources
 
