@@ -1,6 +1,11 @@
 # Log
 
 
+## August 10, 2017
+
+Day 22 - Purchased *Building Micrososervices with Go*. Read the first section, *Introduction to Microservices*. Great review of the *net/http* and *encoding/json* packages I just reviewed.
+
+
 ## August 9, 2017
 
 Day 21 - Re-reviewed the *net/http* package, but this time writing a bunch of code for practice. I will officially write the code tomorrow and push it to GitHub. Wish I had my whiteboard. Didn't bring it on the road to Utah. Not very portable anyway :)
