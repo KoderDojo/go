@@ -1,6 +1,16 @@
 # Log
 
 
+## August 11, 2017
+
+Day 23 - Reading *Building Microservices with Go*.
+
+### Code Examples:
+
+* [JSON Pretty Print](../language/encoding-json/PrettyPrint/main.go)
+* [DefaultServeMux](../language/net-http/02-DefaultServeMux/main.go)
+
+
 ## August 10, 2017
 
 Day 22 - Purchased *Building Micrososervices with Go*. Read the first section, *Introduction to Microservices*. Great review of the *net/http* and *encoding/json* packages I just reviewed.
