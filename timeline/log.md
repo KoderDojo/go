@@ -1,6 +1,18 @@
 # Log
 
 
+## August 12, 2017
+
+Day 24 - Reading *Building Microservices with Go*.
+
+### Code Examples:
+
+* [Timeout Handler](../language/net-http/03-TimeoutHandler/main.go)
+* [Redirect Handler](../language/net-http/04-RedirectHandler/main.go)
+* [NotFound Handler](../language/net-http/05-NotFoundHandler/main.go)
+* [Creating Handlers and Using Context](../practice/building-microservices/CreatingHandlersUsingContext/main.go)
+
+
 ## August 11, 2017
 
 Day 23 - Reading *Building Microservices with Go*.
@@ -9,6 +21,8 @@ Day 23 - Reading *Building Microservices with Go*.
 
 * [JSON Pretty Print](../language/encoding-json/PrettyPrint/main.go)
 * [DefaultServeMux](../language/net-http/02-DefaultServeMux/main.go)
+* [TCP Server](../language/net/01-TCP-Server/main.go)
+* [Set Deadline on Connection](../language/net/02-Conn-Set-Deadline/main.go)
 
 
 ## August 10, 2017
