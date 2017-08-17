@@ -1,5 +1,28 @@
 # Log
 
+## August 16, 2017
+
+Day 28 - Finished developing a Todos WebAPI in Go. Definitely easier to do with a framework, but it is good experience to do it manually.
+
+
+## August 15, 2017
+
+Day 27 - Continued developing a Todos WebAPI in Go. Created a TCP Server example just to post some code.
+
+### Code Examples:
+
+* [TCP Server](../practice/play/TCPServer/main.go)
+
+
+## August 14, 2017
+
+Day 26 - Started developing a Todos WebAPI in Go.
+
+
+## August 13, 2017
+
+Day 25 - No coding. Watched the Go courses on Udemy.
+
 
 ## August 12, 2017
 
