@@ -1,5 +1,15 @@
 # Log
 
+## August 17, 2017
+
+Day 29 - Pushed my Todos WebAPI to Heroku and also used Postgres to store the tasks. Lots of learning and coding but nothing pushed to GitHub.
+
+### Learned
+
+* Heroku as a host for Go web applications.
+* Postgres as a datastore for Go Applications using *lib/pq*
+
+
 ## August 16, 2017
 
 Day 28 - Finished developing a Todos WebAPI in Go. Definitely easier to do with a framework, but it is good experience to do it manually.
