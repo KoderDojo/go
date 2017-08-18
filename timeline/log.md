@@ -7,7 +7,8 @@ Day 29 - Pushed my Todos WebAPI to Heroku and also used Postgres to store the ta
 ### Learned
 
 * Heroku as a host for Go web applications.
-* Postgres as a datastore for Go Applications using *lib/pq*
+* Postgres as a datastore for Go Applications using *lib/pq*.
+* Use git to update and deploy Go Application on Heroku.
 
 
 ## August 16, 2017
