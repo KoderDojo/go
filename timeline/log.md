@@ -1,5 +1,10 @@
 # Log
 
+## August 18, 2017
+
+Day 30 - Learned to create an RPC Service in Go and connect to it using TCP and HTTP.
+
+
 ## August 17, 2017
 
 Day 29 - Pushed my Todos WebAPI to Heroku and also used Postgres to store the tasks. Lots of learning and coding but nothing pushed to GitHub.
