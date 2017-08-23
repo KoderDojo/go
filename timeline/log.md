@@ -1,5 +1,12 @@
 # Log
 
+## August 22, 2017
+
+Day 32 - Attended a DevOps Meetup on microservices architectures. Specifically, the presentation was done by NGINX and they talked about using NGINX in various microservices architectures. I want to learn more about NGINX.
+
+There was also a lot of talk about containers. I plan to sign-up for a Docker course on Udemy tomorrow.
+
+
 ## August 20, 2017
 
 Day 31 - Big day! Signed up with Digital Ocean to host my Go websites and microservices. Created a couple of Droplets, but the most important part was that I was able to one-click install Dokku, which allows me to create multiple apps on my VPN with a Herokuish experience.
