@@ -1,5 +1,12 @@
 # Log
 
+## August 20, 2017
+
+Day 31 - Big day! Signed up with Digital Ocean to host my Go websites and microservices. Created a couple of Droplets, but the most important part was that I was able to one-click install Dokku, which allows me to create multiple apps on my VPN with a Herokuish experience.
+
+Created a simple http server using Go and git pushed it to my VPN and it worked, showing up a a virtual host!!
+
+
 ## August 18, 2017
 
 Day 30 - Learned to create an RPC Service in Go and connect to it using TCP and HTTP.
